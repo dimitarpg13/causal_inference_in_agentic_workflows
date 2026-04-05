@@ -19,3 +19,5 @@
 [Notes on the n-Person Game: part II, The Value of n-Person Game, L.S. Shapley, RM-670, 1951](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows/blob/main/literature/N-Person-Games/NotesOnNPersonGame_RM670_Shapley.pdf)
 
 [Notes on the n-Person Game: part III, Some Variants of the Von Neumann-Morgenstern Definition of Solution, L.S. Shapley, RM-817, 1952](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows/blob/main/literature/N-Person-Games/Notes_on_the_N-Person_Game_III-Some_Variants_of_the_Von_Neumann-Morgenstern_Definition_of_Solution_Shapley_1952.pdf)
+
+[Notes on the n-Person Game: part IV, Theorem on C-Stable Sets, L.S. Shapley, RM-881, 1952](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows/blob/main/literature/N-Person-Games/Notes_on_N-Person_Game_Theory_Theorem_on_C-Stable_Sets_Shapley_1952.pdf)
