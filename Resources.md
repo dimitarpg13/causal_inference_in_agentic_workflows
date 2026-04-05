@@ -15,3 +15,5 @@
 [Game Theory in Economics - Chapter 6: Characteristic Function, Core, and Stable Set, L. S. Shapley and M. Shubik, 1973](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows/blob/main/literature/N-Person-Games/Game_Theory_in_Economics-Characteristic_Function_Core_and_Stable_Set_Shapley_1973.pdf)
 
 [Notes on the n-Person Game: part I, Characteristic Point Solutions of The Four Person Game, L.S. Shapley, RM-656, 1951](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows/blob/main/literature/N-Person-Games/Notes_on_the_N-Person_Game_part_I_Characteristic-Point_Solutions_of_the_Four-Person_Game_Shapley_1951.pdf)
+
+[Notes on the n-Person Game: part II, The Value of n-Person Game, L.S. Shapley, RM-670, 1951](https://github.com/dimitarpg13/causal_inference_in_agentic_workflows/blob/main/literature/N-Person-Games/NotesOnNPersonGame_RM670_Shapley.pdf)
